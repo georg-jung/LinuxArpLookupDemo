@@ -37,6 +37,7 @@ steps:
   inputs:
     command: 'publish'
     modifyOutputPath: false
+    publishWebProjects: false
     arguments: '-c Release -r linux-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true --output $(Build.ArtifactStagingDirectory)/linux-x64'
 
 - task: PublishPipelineArtifact@1

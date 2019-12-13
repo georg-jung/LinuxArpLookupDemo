@@ -1,3 +1,9 @@
+# Lib: [ArpLookup](https://github.com/georg-jung/ArpLookup)
+
+Based on the method evaluated here I created a cross-platform (windows + linux) arp ip-mac-lookup library. Just use https://github.com/georg-jung/ArpLookup if you are interested in .Net Standard cross-platform lookups. The library uses the same principle that the demo in this repository makes use of.
+
+<hr />
+
 # LinuxArpLookupDemo
 
 [![Build Status](https://dev.azure.com/georg-jung/LinuxArpLookupDemo/_apis/build/status/georg-jung.LinuxArpLookupDemo?branchName=master)](https://dev.azure.com/georg-jung/LinuxArpLookupDemo/_build/latest?definitionId=1&branchName=master)
